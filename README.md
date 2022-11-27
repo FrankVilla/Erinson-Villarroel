@@ -47,7 +47,8 @@ I am University Graduate in Computer Engineering, I started my programming caree
   <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" title="webflow" **alt="webflow" width="40" height="40"/>
  </div>
  ### :fire: My Stats : 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrankVilla&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrankVilla&theme=dark&background=000000)](https://git.io/streak-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankVilla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
