@@ -25,7 +25,7 @@
 </div>
 
 ### About Me : 
-I am University Graduate in Computer Engineering, I started my programming career in SIEMENS programming in C++ the first digital sensor controllers in 1999. Since then I knew that the world was heading toward a career in technology where the knowledge of several programming languages would be essential so I keep learning new programming languages. I am an iOS developer and live in Poland working for a big :whale: in the comfort of my home.
+I am an engineering graduate from the University 1998, I started my programming career at SIEMENS programming in C++ the first digital lift controllers in 1999. Since then I knew that the world was heading towards a career in technology where knowledge of various programming languages would be essential so I keep learning new programming languages. I am an iOS developer and live in Poland working for a Big :whale: in the comfort of my home.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
