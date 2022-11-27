@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/iOS-Swift-orange"/>
-  <img src="https://img.shields.io/badge/macOS-Swift-blue" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/macOS-Swift-blue"/>
   <img src="https://img.shields.io/badge/iOS-SwiftUI-blue"/>
   <img src="https://img.shields.io/badge/iOS-Objetive%20C-blue"/>
   <img src="https://img.shields.io/badge/WEB-java-red"/>
