@@ -23,10 +23,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+### 🇻🇪: About Me : 
+I am from Venezuela Graduated Computer Engineering at Instituto Universitario de Tecnologia in Caracas.
+I started my programming career in SIEMENS de VENEZUELA programming in C++ the first digital sensor controllers in 1999. 
+since then I knew that the world was heading towards a career in technology where knowledge of various programming languages would be essential so I continue to learn new programming languages. I am iOS developer living in Poland working for a big whale in the comfort of my home.
+
 
 ### :hammer_and_wrench: Languages and Tools :
-
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="objectivec" alt="objectivec" width="40" height="40"/>&nbsp;
@@ -47,3 +50,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" **alt="rust" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" title="webflow" **alt="webflow" width="40" height="40"/>
  </div>
+ 
+ ### :fire: My Stats :
