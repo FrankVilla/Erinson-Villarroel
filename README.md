@@ -50,4 +50,5 @@ I am University Graduate in Computer Engineering, I started my programming caree
  </div>
  
  ### :fire: My Stats : 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankVilla)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankVilla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
