@@ -13,8 +13,4 @@
   <img src="https://img.shields.io/badge/REQUEST-JSON-green"/>
   <img src="https://img.shields.io/badge/build-MVVM-green"/>
   <img src="https://img.shields.io/badge/license-MIT-green"/>
-  
-  
-  
- 
 </div>
