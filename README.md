@@ -24,9 +24,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ### 🇻🇪: About Me : 
-I am from Venezuela Graduated Computer Engineering at Instituto Universitario de Tecnologia in Caracas.
-I started my programming career in SIEMENS de VENEZUELA programming in C++ the first digital sensor controllers in 1999. 
-since then I knew that the world was heading towards a career in technology where knowledge of various programming languages would be essential so I continue to learn new programming languages. I am iOS developer living in Poland working for a big whale in the comfort of my home.
+I am from Venezuela Graduated in Computer Engineering at the University Institute of Technology in Caracas. I started my programming career in SIEMENS de VENEZUELA programming in C++ the first digital elevator controllers in 1996. Since then I knew that the world was heading toward a career in technology where the knowledge of several programming languages would be essential so I keep learning more programming languages. I am an iOS developer and live in Poland working for a big :whale: in the comfort of my home.
 
 
 ### :hammer_and_wrench: Languages and Tools :
