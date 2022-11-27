@@ -23,8 +23,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ### :🇻🇪: About Me : 
 I am University Graduate in Computer Engineering, I started my programming career in SIEMENS programming in C++ the first digital sensor controllers in 1999. Since then I knew that the world was heading toward a career in technology where the knowledge of several programming languages would be essential so I keep learning new programming languages. I am an iOS developer and live in Poland working for a big :whale: in the comfort of my home.
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
