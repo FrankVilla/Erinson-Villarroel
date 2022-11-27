@@ -9,4 +9,12 @@
   <img src="https://img.shields.io/badge/WEB-java-red"/>
   <img src="https://img.shields.io/badge/WEB3-Rust-red"/>
   <img src="https://img.shields.io/badge/Developer-C%2B%2B-red"/>
+  <img src="https://img.shields.io/badge/TEST-UITEST-green"/>
+  <img src="https://img.shields.io/badge/REQUEST-JSON-green"/>
+  <img src="https://img.shields.io/badge/build-MVVM-green"/>
+  <img src="https://img.shields.io/badge/license-MIT-green"/>
+  
+  
+  
+ 
 </div>
