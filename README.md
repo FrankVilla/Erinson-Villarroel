@@ -25,8 +25,6 @@
 </div>
 ### :🇻🇪: About Me : 
 I am University Graduate in Computer Engineering, I started my programming career in SIEMENS programming in C++ the first digital sensor controllers in 1999. Since then I knew that the world was heading toward a career in technology where the knowledge of several programming languages would be essential so I keep learning new programming languages. I am an iOS developer and live in Poland working for a big :whale: in the comfort of my home.
-
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
@@ -48,7 +46,6 @@ I am University Graduate in Computer Engineering, I started my programming caree
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" **alt="rust" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" title="webflow" **alt="webflow" width="40" height="40"/>
  </div>
- 
  ### :fire: My Stats : 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrankVilla&theme=dark&background=000000)](https://git.io/streak-stats)
 
