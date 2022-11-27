@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/build-MVVM-green"/>
   <img src="https://img.shields.io/badge/license-MIT-green"/>
 </div>
-
-<div align="center">
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <img src="https://giphy.com/embed/h0Cq1ClzO3UpupFPjP"/>
-</div>
+</h1>
